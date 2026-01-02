@@ -1,0 +1,28 @@
+{
+  "model_name": "MEXAR Lite (student)",
+  "version": "v1.0.0",
+  "created_at": "2026-01-01T05:45:30Z",
+  "training_data": {
+    "primary": "SympScan (Diseases_and_Symptoms_dataset.csv) - 96k rows",
+    "semantic": "MTSamples - 5k notes"
+  },
+  "symptom_count": 230,
+  "num_diseases": 100,
+  "encoder": "all-MiniLM-L6-v2",
+  "distillation": {
+    "teachers": [
+      "RandomForest",
+      "XGBoost",
+      "DNN"
+    ],
+    "student": "ResNet-MLP",
+    "notes": "Temperature scaling, teacher-weighted averaging"
+  },
+  "artifacts": {
+    "student_weights": "artifacts/student_final.pth",
+    "symptom_order": "symptom_order.json",
+    "label_encoder": "label_encoder.pkl",
+    "calibration": "artifacts/calibration.json"
+  },
+  "notes": "For production: run calibration, emergency rules, and alias mapping."
+}
