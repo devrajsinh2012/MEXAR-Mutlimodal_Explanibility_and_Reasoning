@@ -10,7 +10,6 @@ A comprehensive framework for explainable artificial intelligence (XAI) that int
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -285,29 +284,6 @@ We welcome contributions to MEXAR! Here's how you can help:
 5. Open a Pull Request
 
 Please ensure your code follows PEP 8 standards and includes appropriate tests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Citation
-
-If you use MEXAR in your research, please cite:
-
-```bibtex
-@software{mexar2024,
-  title={MEXAR: Multimodal Explainability and Reasoning Framework},
-  author={Devrajsinh and contributors},
-  year={2024},
-  url={https://github.com/devrajsinh2012/MEXAR-Mutlimodal_Explanibility_and_Reasoning}
-}
-```
-
-## Contact
-
-For questions, issues, or collaboration inquiries, please open an issue on GitHub or contact the maintainers.
-
----
 
 **Last Updated**: 2026-01-02
 
