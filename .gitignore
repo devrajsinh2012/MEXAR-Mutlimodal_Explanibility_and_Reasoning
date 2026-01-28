@@ -1,0 +1,21 @@
+# Large files exceeding GitHub's 100MB limit
+daataset/DDXplus dataset/20043374.zip
+daataset/DDXplus dataset/release_train_patients.zip
+
+# Virtual environments
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Node modules
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
