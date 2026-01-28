@@ -1,11 +1,24 @@
-# MEXAR: Multimodal Explainability and Reasoning Assistant 🧠
+# 🧠 MEXAR: Multimodal Explainability and Reasoning
 
-> **Final Year Major Project**
->
-> **Project Evolution Status**: `✅ Complete` | **Current Version**: `v2.5 (Ultimate)`
+## Semester 8 Major Project - Final Year Capstone
+
+> **A Comprehensive Framework for Explainable AI with Multimodal Data Processing and Advanced Reasoning Capabilities**
 
 ---
 
+## 📋 Executive Overview
+
+MEXAR is an ambitious final-year capstone project that addresses the critical need for **explainability in modern AI systems** that process diverse data types. This project demonstrates a sophisticated understanding of:
+
+- **Multimodal Machine Learning**: Processing text, images, audio, and structured data simultaneously
+- **Explainable AI (XAI)**: Making black-box models interpretable to humans
+- **Medical AI Systems**: Real-world application in healthcare diagnosis
+- **Full-Stack Development**: From backend reasoning engines to interactive frontend interfaces
+- **Production-Ready Architecture**: Deployed systems with scalable infrastructure
+
+The project evolves through **4 distinct iterations**, each building upon the previous, culminating in a production-grade RAG-based system deployed on cloud infrastructure.
+
+---
 ## 🚀 The MEXAR Evolution
 
 The MEXAR project has evolved through four distinct research and development phases, each adding new layers of complexity, intelligence, and utility.
@@ -31,6 +44,15 @@ graph LR
 
 ---
 
+## 🚀 Quick Links
+
+Live Demo: https://mexar.vercel.app
+
+API Documentation: https://devrajsinh2012-mexar.hf.space/docs
+
+Project Repository: https://github.com/devrajsinh2012/MEXAR-Mutlimodal_Explanibility_and_Reasoning
+
+---
 ## 🎯 MEXAR Nano - Version 1.0: Baseline Medical Diagnosis System
 
 **Purpose**: Foundation model demonstrating core medical diagnosis capabilities with explainability.
