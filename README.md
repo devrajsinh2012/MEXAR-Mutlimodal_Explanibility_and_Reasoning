@@ -300,6 +300,15 @@ CREATE TABLE document_chunks (
 - **Backend**: [HuggingFace Spaces](https://devrajsinh2012-mexar.hf.space) (Docker/Python 3.9)
 - **Database**: Supabase (PostgreSQL 14 + pgvector)
 
+### 📸 Screenshot
+<img width="1863" height="918" alt="image" src="https://github.com/user-attachments/assets/75ff2c32-4c90-4e65-ab5f-10c94bad2e65" />
+<img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/2d9846c9-b002-4f05-b632-6dc1c8c58ad1" />
+<img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/810de78d-4725-494e-94b5-e8aa71b8b7fd" />
+<img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/155ea162-d8b9-4b45-acf9-42afc47c8498" />
+<img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/cadf46a8-c679-4a76-a58d-a956f9cb9cc1" />
+<img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/598b7925-8001-44a7-ae34-6fddb85b7531" />
+<img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/e9e99b9d-05b0-4ae5-9990-ed9c9cc124c6" />
+
 ---
 
 ## 📊 Dataset Deep Dive
